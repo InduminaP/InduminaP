@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Indumina Prabashwara
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data analyzing projects
+- 💞️ I’m looking to collaborate on Data Analyzing projects
 - 😄 Pronouns: He/Him
 
 <!---
