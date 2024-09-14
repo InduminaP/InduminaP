@@ -8,7 +8,10 @@
 ## 🛠 **Skills**  
 **Programming Languages:**  
 - SQL (PostgreSQL, MySQL)  
-- Python (Pandas, NumPy, Matplotlib)  
+- Python (Pandas, NumPy, Matplotlib)
+
+### Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induminap&layout=compact)](https://github.com/induminap/github-readme-stats)
 
 ## 🛠 **Tools:**  
 - Excel
@@ -30,7 +33,6 @@ View my coding projects on [GitHub](https://github.com/InduminaP).
 - [Website](#)  
 - [LinkedIn](https://www.linkedin.com/in/indumina-prabashwara/)  
 - [Email](mailto:induminaprabashwara3@gmail.com)
-
 
 <!---
 InduminaP/InduminaP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
