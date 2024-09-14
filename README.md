@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @InduminaP
+- 👋 Hi, I’m Indumina Prabashwara
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data analyzing projects
