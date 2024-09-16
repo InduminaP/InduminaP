@@ -10,6 +10,9 @@
 - SQL (PostgreSQL, MySQL)  
 - Python (Pandas, NumPy, Matplotlib)
 
+## **Learning Progress**
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66e84c63f34c8868eca4f296?variant=dark&roadmaps=data-analyst" alt="roadmap.sh"/></a>
+
 ### Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=induminap&layout=compact)](https://github.com/induminap/github-readme-stats)
 
