@@ -1,10 +1,10 @@
 👋 Hi, I’m Indumina Prabashwara, an aspiring Data Analyst from Sri Lanka.
 
-## 🙋‍♂**About Me**  
+## 🙋‍♂️ **About Me**  
 📊 I’m currently learning Python and SQL to become a data analyst.  
-📚 I completed the Google Data Analytics Program.
-📚 I have experience working with datasets, cleaning and analyzing data using Python (pandas, Matplotlib), and performing SQL queries.  
-🎓 I'm building my skills with real-world projects, and I aim to share my journey through my GitHub.  
+📚 I completed the Google Data Analytics Program.  
+🔍 I have experience working with datasets, cleaning and analyzing data using Python (Pandas, Matplotlib), and performing SQL queries.  
+🎓 I'm building my skills through real-world projects and sharing my journey on GitHub.
 
 ## 🛠 **Skills**  
 **Programming Languages:**  
@@ -17,7 +17,9 @@
 ## 🛠 **Tools:**  
 - Excel
 - Power BI
-- Tableau  
+- Tableau
+- PostgreSQL
+- BigQuery
 - Git & GitHub
 - VS Code  
 
